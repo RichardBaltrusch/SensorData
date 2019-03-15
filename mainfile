@@ -1,0 +1,3 @@
+import "SensorData.py" as SD
+
+SD.main()
